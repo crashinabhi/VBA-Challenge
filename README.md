@@ -16,6 +16,9 @@ Since there are several stocks over the years it might be difficult to track the
 
 ### VBA Code Results:
 - The New VBA code with refactoring reduces the run time in processing it considerably. The original code ran for close to a second while the refactored one ran for less than half a second.
+
+)![](Resources/Old Code.png)              ![](Resources/Refactored code.png
+
 ## Summary
 ### Advantages and disadvantages of refactoring code in general:
 #### Advantages
