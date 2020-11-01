@@ -11,6 +11,9 @@ Since there are several stocks over the years it might be difficult to track the
 - On analysing several stocks over the years 2017 and 2018 it shows that not all stock performed well over the period. As you can see in the screen shot of the results all except 2 stocks had a downward trend on returns. 
 - The Stocks that Steve’s parents were looking forward to buying, the DQ was a major looser among others. The stock that fared well were ENPH and the RUN. 
 - Steve can propose these 2 stocks to his parents as a better option to buy considering they are performing well.
+
+![](Resources/VBA_Challenge_2017.png)
+
 ### VBA Code Results:
 - The New VBA code with refactoring reduces the run time in processing it considerably. The original code ran for close to a second while the refactored one ran for less than half a second.
 ## Summary
